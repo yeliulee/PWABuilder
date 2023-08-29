@@ -460,7 +460,7 @@ In the second example below, if `navigate-existing` is unavailable it will fallb
 }
 
 "launch_handler": {
-    "client_mode": ["navigate-existing, auto"]
+    "client_mode": ["navigate-existing", "auto"]
 }
 ```
 
